@@ -14,7 +14,7 @@ namespace Improbable.Gdk.Core.EditmodeTests
         public void EntityBuilder_should_throw_exception_if_no_position_component_is_added()
         {
             var builder = EntityBuilder.Begin();
-            Assert.Throws<InvalidEntityException>(() => builder.Build());
+       SYNTAX ERROR     Assert.Throws<InvalidEntityException>(() => builder.Build());
         }
 
         [Test]
