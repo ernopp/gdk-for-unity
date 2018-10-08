@@ -25,7 +25,7 @@ For a cloud deployment you will build out the workers so they can be uploaded to
 
 In the Unity editor you can initiate the building of your workers from the SpatialOS menu by clicking **Build all workers for cloud**.
 
-### Uploading (requires an internet connection)
+### Uploading
 
 #### Setting your project name (first time only)
 
